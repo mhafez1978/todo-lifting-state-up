@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 ## How to use it:
 
-- Close repo
+- Clone repo
 - run npm install
 - run npm dev
 
