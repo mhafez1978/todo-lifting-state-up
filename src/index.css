@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: deeppink;
+}
+
+input,
+textarea {
+  padding-top: 5px;
+  padding-left: 5px;
+}
